@@ -1,5 +1,5 @@
 import pygame
-import board
+from src import board
 from pygame.locals import *
 
 pygame.init()
