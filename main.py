@@ -1,9 +1,9 @@
 import pygame
-import UI
+import ui
 
 
 def main():
-    UI.start()
+    ui.start()
     pygame.quit()
 
 

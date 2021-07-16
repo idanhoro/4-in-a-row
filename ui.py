@@ -1,6 +1,4 @@
 import pygame
-import self as self
-
 import board
 from pygame.locals import *
 
