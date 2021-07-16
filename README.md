@@ -11,12 +11,16 @@ The discs fall straight down, occupying the lowest available space within the co
 The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
 
 ## Images 
- <img src="https://user-images.githubusercontent.com/65775948/125964410-e42f5c3c-ddcb-4c4b-9239-e9914e3030e2.png" width=30% height=30%>                                          <img src="https://user-images.githubusercontent.com/65775948/125963268-2667b44f-af4a-49c9-9c39-f0d489a18b3d.png" width=30% height=30%>                                          <img src="https://user-images.githubusercontent.com/65775948/125964300-cf501e9a-501a-4c50-adaa-6a69e26e0ed1.png" width=30% height=30%>
- 
+ <img src="https://user-images.githubusercontent.com/65775948/125964410-e42f5c3c-ddcb-4c4b-9239-e9914e3030e2.png" width=30% height=30%>   <img src="https://user-images.githubusercontent.com/65775948/125963268-2667b44f-af4a-49c9-9c39-f0d489a18b3d.png" width=30% height=30%>   <img src="https://user-images.githubusercontent.com/65775948/125964300-cf501e9a-501a-4c50-adaa-6a69e26e0ed1.png" width=30% height=30%>
+
+
  ## Dependencies
  The project was written with **Python 3.9**.
  
  **Packages used:** 
  - NumPy
  - PyGame
+
+## Running instructions
+`pip install -r requirements.txt`
  
